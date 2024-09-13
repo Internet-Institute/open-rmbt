@@ -4,6 +4,6 @@ include ':RMBTQoSServer'
 include ':RMBTControlServer'
 include ':RMBTStatisticServer'
 include ':RMBTMapServer'
-include ':RMBTClient'
+//include ':RMBTClient'
 
 
